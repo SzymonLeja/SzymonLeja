@@ -1,22 +1,10 @@
-### Hi there 👋
+### Hello👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonLeja&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+My name is Szymon.
+My journey with programming started when I was 17 years old, I was offered my first internship as a React Frontend Developer and I continue my learning and adventure until today.
+I am studing Computer Science at [Wroclaw's University of Science and Technology](https://pwr.edu.pl/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonLeja&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**SzymonLeja/SzymonLeja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on CMR/CMS System
+- 🌱 I’m currently learning Machine Learning, Assembly, Java
+- ⚡ Fun fact: My lastname is Leja.. yup its pronounced like "Leia" from Star Wars
