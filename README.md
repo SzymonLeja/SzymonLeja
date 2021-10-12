@@ -6,6 +6,6 @@ My journey with programming started when I was 17 years old, I was offered my fi
 I am studing Computer Science at [Wroclaw's University of Science and Technology](https://pwr.edu.pl/)
 <br/>
 
-- 🔭 I’m currently working on CMR/CMS System
+- 🔭 I’m currently working on CRM/CMS System
 - 🌱 I’m currently learning Machine Learning, Assembly, Java
 - ⚡ Fun fact: My lastname is Leja.. yup its pronounced like "Leia" from Star Wars ⭐🔫👸
