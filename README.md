@@ -7,5 +7,5 @@ I am studing Computer Science at [Wroclaw's University of Science and Technology
 <br/>
 
 - 🔭 I’m currently working on CRM/CMS System
-- 🌱 I’m currently learning Machine Learning, Assembly, Java
+- 🌱 I’m currently learning Machine Learning, Java, GoLang
 - ⚡ Fun fact: My lastname is Leja.. yup just like "Leia" from Star Wars ⭐🔫👸
