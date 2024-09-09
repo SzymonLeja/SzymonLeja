@@ -3,7 +3,7 @@
 My name is Szymon, I'm 23.<br/>
 My journey with programming started when I was 17 years old, I was offered my first internship as a React Frontend Developer and I continue my adventure until today.
 <br/>
-I am B.Sc Graduate from the [Wroclaw's University of Science and Technology](https://pwr.edu.pl/en)
+BE Graduate, ME student [Wroclaw's University of Science and Technology](https://pwr.edu.pl/en)
 <br/>
 Fullstack Engineer with 5 years of experience
 <br/>
