@@ -2,6 +2,7 @@
 
 My name is Szymon.<br/>
 My journey with programming started when I was 17 years old, I was offered my first internship as a React Frontend Developer and I continue my adventure until today.
+<br/>
 Currently working at EPAM Systems. In the past, I’ve had the pleasure of working with T-Mobile, Nokia, and a few other great teams.
 <br/>
 MSc Eng. in Computer Science graduate [Wroclaw's University of Science and Technology](https://pwr.edu.pl/en)
